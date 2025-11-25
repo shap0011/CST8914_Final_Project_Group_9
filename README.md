@@ -8,3 +8,8 @@
 - Abijith Anil
 
 ---
+
+# Notes to the work on project:
+
+1. `EmpowerAbilityLab.html` file renamed into `index.html`
+2. The page published: https://shap0011.github.io/CST8914_Final_Project_Group_9/
